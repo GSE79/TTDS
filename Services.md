@@ -20,6 +20,6 @@ From concept to development and support, we offer services for the full product 
 - Industrial Systems
 ### Sustaining Engineering
  TTDS engineers apply their education and experience toward acheiving your goals.
- - Electronics, Hardware, PCBs, Smart Sensors
- - Electronics, Firmware, Software, User Interface
- - 
+ - IT Infrastructure and Networks
+ - Controllers and Control Systems
+ - Connectivity Systems and Gateways
