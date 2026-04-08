@@ -5,7 +5,7 @@ At TTDS we provide solutions.  Need a connectivity or controls product, we offer
 - [Services](Services.md)
 - [Training](Training.md)
 ## Learning
-It Can be Done! Already have an idea?  Looking for 
+It Can be Done! 
 - [Articles](Articles.md)
 
 
