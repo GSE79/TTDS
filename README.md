@@ -3,7 +3,7 @@
 ## B2B Solutions
 - [Products](Products.md)
 - [Services](Services.md)
-- [Traning](Training.md)
+- [Training](Training.md)
 
 ## Learning
 - [Articles](Articles.md)
