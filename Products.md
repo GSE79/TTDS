@@ -11,4 +11,4 @@ TTDS offers on-prem, cloud, and hybrid production systems for gateways and contr
 - Allocate and configure virtual networks,
 - Maintain database systems,
 - Record and archive quality metrics during production,
-- Support Software/Firmware updates from the WWW.   
+- Enable download and update over the internet.   
