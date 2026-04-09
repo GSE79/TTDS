@@ -20,9 +20,9 @@ From concept to development and support, we offer services for the full product 
 - [Industrial Systems](#industrial-systems)
 ### Sustaining Engineering
  TTDS engineers apply their education and experience toward acheiving your goals.
- - IT Infrastructure and Networks
- - Controllers and Control Systems
- - Connectivity Systems and Gateways
+ - [IT Infrastructure and Networks](#engineering-service-rates)
+ - [Controllers and Control Systems](#engineering-service-rates)
+ - [Connectivity Systems and Gateways](#engineering-service-rates)
 
 ### -
 ### -
@@ -63,12 +63,21 @@ Real-time, high-performance, computing for control systems
 ### Industrial Systems
 Real-time, high-performance, computing for control systems on PLCs, HMIs, Motion, and Drive Controllers
 - Systems Engineering, Analysis, Architecture
-- Hardware, Circuits, Component Selection
+- Component Selection
 - Panel Layout
 - PLC Development
 - Motion/Drive Development
+- HMI Development
 - Secure Network and Communication Systems
 - Distributed Systems
 - Synchronous Operations
 - Precision Motion
 - IoT Connectivity
+
+### Engineering Service Rates
+| Resource | Weekly Rate (40Hrs) | Description |
+| ------------- | ------------- | ------------------------------------- |
+| Development Engineer |  $3,600 | Talented Digital Engineer |
+| Systems Engineer | $4,800 | Senior Cross-Functional Digital Engineer |
+| Principal Engineer | $6,800 | Consulting Digital Systems Engineer | 
+| Project Manager | $4,400 | Senior Project Manager |
