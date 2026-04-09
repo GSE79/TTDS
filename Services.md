@@ -6,7 +6,7 @@ For OEMs developing new products, adding features, and scaling production system
 Even if you're not a tech company, you'll likely need tech support.  
 IT services offerred are available through packages.  
 Packages are designed to provide the support your organization needs on a scalable per user plan.  
-Packages are list below:
+Packages are listed below:
 - [Basic Cloud Operations Package](#BasicCloudOperationsPackage)
 - Basic On-Prem Ops Pacakge
 - Email Security Package
@@ -24,5 +24,5 @@ From concept to development and support, we offer services for the full product 
  - Controllers and Control Systems
  - Connectivity Systems and Gateways
 
-### BasicCloudOperationsPackage
+### Basic Cloud Operations Package
 here we go
