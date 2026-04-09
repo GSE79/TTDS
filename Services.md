@@ -7,8 +7,8 @@ Even if you're not a tech company, you'll likely need tech support.
 IT services offerred are available through packages.  
 Packages are designed to provide the support your organization needs on a scalable per user plan.  
 Packages are listed below:
-- [Basic Cloud Operations Package](#BasicCloudOperationsPackage)
-- [Basic On-Prem Ops Pacakge](#BasicOn-premOperationsPackage)
+- [Basic Cloud Operations Package](#basic-cloud-operations-package)
+- [Basic On-Prem Ops Pacakge](#basic-on-prem-operations-package)
 - Email Security Package
 - Global Network Package
 - Enterprise Systems Package
