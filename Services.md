@@ -8,7 +8,7 @@ IT services offerred are available through packages.
 Packages are designed to provide the support your organization needs on a scalable per user plan.  
 Packages are listed below:
 - [Basic Cloud Operations Package](#BasicCloudOperationsPackage)
-- Basic On-Prem Ops Pacakge
+- [Basic On-Prem Ops Pacakge](#BasicOn-premOperationsPackage)
 - Email Security Package
 - Global Network Package
 - Enterprise Systems Package
@@ -25,4 +25,7 @@ From concept to development and support, we offer services for the full product 
  - Connectivity Systems and Gateways
 
 ### Basic Cloud Operations Package
-here we go
+This package gets a company started with PCs, email, and colaboration tools with an easy per user, per month subscription.
+
+### Basic On-prem Operations Package
+This package gets a company started with PCs, email, and colaboration tools also, adding on-prem assets like domain and file servers.
