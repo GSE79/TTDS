@@ -24,3 +24,5 @@ From concept to development and support, we offer services for the full product 
  - Controllers and Control Systems
  - Connectivity Systems and Gateways
 
+### BasicCloudOperationsPackage
+here we go
