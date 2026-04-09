@@ -1,13 +1,13 @@
 [TTDS](README.md) | [PRODUCTS](Products.md) | [SERVICES](Services.md) | [TRAINING](Training.md)
 ## Services
-If you're a startup in need of everything IT or small company with a need for hardened email security, we offer packages for your success.
-If you'd like to add a new product to your current offering or scale production on existing models, TTDS offers product development and sustaining engineering services.
+Whether you're a startup in need of everything IT or small company fighting with too much SPAM, we offer managed IT packages for your success.
+For OEMs developing new products, adding features, and scaling production systems, TTDS offers product development and sustaining engineering services.
 ### Managed IT
-Even if you're not a technology company, you'll likely need technology support.  
+Even if you're not a tech company, you'll likely need tech support.  
 IT services offerred are available through packages.  
 Packages are designed to provide the support your organization needs on a scalable per user plan.  
 Packages are list below:
-- Basic Cloud Operations Package
+- [Basic Cloud Operations Package](#BasicCloudOperationsPackage)
 - Basic On-Prem Ops Pacakge
 - Email Security Package
 - Global Network Package
@@ -23,3 +23,4 @@ From concept to development and support, we offer services for the full product 
  - IT Infrastructure and Networks
  - Controllers and Control Systems
  - Connectivity Systems and Gateways
+
