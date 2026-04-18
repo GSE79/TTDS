@@ -7,7 +7,7 @@ TTDS offers preconfigured equipment to support your users and operators in their
 ### Controllers and Gateways
 TTDS offers controllers and gateways tailored to your specifications.  
 For embedded or industrial systems we offer customized solutions on selectable hardware.  
-For the most chanllenging applications, we offer fully custom hardware and software solutions.
+For the most challenging applications, we offer fully custom hardware and software solutions.
 ### Production Systems
 TTDS offers on-prem, cloud, and hybrid production systems for gateways and controllers.  Add the ability to produce secure gateways or controllers to your production line.  Integrate with ERP, MES, and other systems to:  
 - Manage encryption keys,
